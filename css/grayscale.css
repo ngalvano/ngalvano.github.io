@@ -263,7 +263,7 @@ a:focus {
 
 .estudios-section {
     width: 100%;
-    padding: 50px 0;
+    padding: 10px 0;
     color: #fff;
     background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
     background-color: #000;
@@ -296,11 +296,11 @@ a:focus {
     }
 
     .estudios-section {
-        padding: 100px 0;
+        padding: 200px 0;
     }
 
     .contacto{
-        padding: 50px 0;
+        padding: 200px 0;
     }
 
     #separation {
